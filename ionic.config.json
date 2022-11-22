@@ -1,0 +1,7 @@
+{
+  "name": "appsurf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
